@@ -136,3 +136,10 @@ button:hover {
         margin: 5px 0;
     }
 }
+footer {
+    text-align: center;
+    padding: 20px;
+    background-color: #420D4B;
+    color: #f1f1f1;
+    margin-top: 50px;
+}
